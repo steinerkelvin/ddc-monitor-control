@@ -7,7 +7,7 @@ from subprocess import check_output  # call
 import argparse
 
 
-DEV = "/dev/i2c-0"
+DEV = "/dev/i2c-8"
 
 BASE_COMMAND = ["sudo", "ddcci-tool"]
 

@@ -1,5 +1,5 @@
 
-# dcc-monitor-control
+# ddc-monitor-control
 
 Python script to control monitors using the [`ddcci-tool`](http://jaffar.cs.msu.su/oleg/ddcci/)
 
